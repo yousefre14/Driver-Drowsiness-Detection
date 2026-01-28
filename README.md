@@ -232,17 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [imutils](https://github.com/jrosebr1/imutils) for convenient video processing
 - Original paper on Eye Aspect Ratio: [Real-Time Eye Blink Detection using Facial Landmarks](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
 
-## 📧 Contact
-
-For questions, suggestions, or issues, please open an issue on GitHub or contact [your-email@example.com]
-
-## 🚗 Safety Disclaimer
-
-This system is designed as a research and educational project. While it can help detect drowsiness, it should NOT be relied upon as the sole safety mechanism in vehicles. Always:
-- Get adequate rest before driving
-- Take regular breaks on long journeys
-- Pull over safely if you feel drowsy
-- Use this system as an additional safety tool, not a replacement for alertness
 
 ## 📚 References
 
@@ -251,5 +240,3 @@ This system is designed as a research and educational project. While it can help
 - [Facial Landmarks Research](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf)
 
 ---
-
-**Made with ❤️ for safer driving**
